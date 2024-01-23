@@ -1,5 +1,3 @@
-#DA Project
-
 Project done for the [FEUP  Algorithm Design course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520321)
 
 Given two CSV's, one with a network of train stations in Portugal, given the source station, destionation station, capacity of that line and servie and the other CSV had information about each Station, such as the district, municipality, Township and line.
